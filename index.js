@@ -1,0 +1,24 @@
+
+console.log('Deno can be used to serve JS Files')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
